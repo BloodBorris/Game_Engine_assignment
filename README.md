@@ -27,5 +27,8 @@ Factory
 Observer scripts (goes from top to bottom in order of what occurs)
 ![Observer](https://github.com/user-attachments/assets/9b6c1523-274a-4ef5-b66a-b00a62fe9fea)
 
+Progress / time management tracker
+![Time Management](https://github.com/user-attachments/assets/392df508-7add-4f60-b955-3c16fbcab49d)
+
 
 

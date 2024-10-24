@@ -5,6 +5,8 @@ This interactive media scenario is a level from my GDW game. In this level you m
 
 Need screenshots here for the level with short explanations as to why each part is good for the design patterns
 
+I used diagrams to explain how I did each pattern
+
 Singleton 
 ![Singelton](https://github.com/user-attachments/assets/0d8d7792-ea90-4810-842c-cf64fd12767f)
 
@@ -12,22 +14,18 @@ Singleton
 
 
 Command 
+![Command](https://github.com/user-attachments/assets/52109681-9cd0-41d2-9305-d8d5cd50d5f0)
 
-Timer portion
 
 
-Command design pattern portion
 
 
 Factory
-
-Observer scripts
-
-
-Pick up item script
+![Factory](https://github.com/user-attachments/assets/298cec34-0690-4817-ba64-71d4ed8dd090)
 
 
-Observer script
+Observer scripts (goes from top to bottom in order of what occurs)
+![Observer](https://github.com/user-attachments/assets/9b6c1523-274a-4ef5-b66a-b00a62fe9fea)
 
 
-Wall script
+
